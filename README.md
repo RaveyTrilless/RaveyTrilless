@@ -1,3 +1,4 @@
+17/08/2004
 - 👋 Hi, I’m @RaveyTrilless
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Python
